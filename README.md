@@ -1,5 +1,5 @@
 # Weatheready
-Gets weather data at fixed long/lat location, plays sounds and displays pictures tailored to current weather. Also gets random dad joke each refresh (just because).
+Gets weather data at fixed long/lat location, plays sounds and displays pictures tailored to current weather. Also gets random dad joke each refresh (mainly because I couldn't find a sarcastic motivational quote API).
 
 To use you'll just need to put in your lat and long, and a free API key from Open Weather.org.
 
